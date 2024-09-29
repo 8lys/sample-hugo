@@ -1,10 +1,8 @@
-+++
-title = "JV With Me"
-description = "Buy - Sell Real Estate | PML, PMP, EMD, Transactional Lending"
-date = "2024-09-29"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "J"
-+++
+---
+title: 'JV With Me'
+button: 'Home'
+weight: 1
+---
 
 New website coming soon...
 
