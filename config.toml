@@ -1,9 +1,9 @@
 theme = "paper"
 relativeURLs = true
 baseURL = "/"
-title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+title = "JV With Me"
+author = "8LYS DEVGRU"
+copyright = "Copyright © 2023, Wagua Group LLC; all rights reserved."
 paginate = 4
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -16,11 +16,11 @@ enableInlineShortcodes = true
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 10
 
 [taxonomies]
 category = "categories"
