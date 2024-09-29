@@ -1,3 +1,3 @@
----
-headless: true
----
+New website coming soon...
+
+Schedule a call: jvwith.me/letstalk
