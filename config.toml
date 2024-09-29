@@ -16,11 +16,11 @@ enableInlineShortcodes = true
     name = "Home"
     url = "/"
     weight = 1
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about/"
-  #   weight = 10
+  [[menu.main]]
+    identifier = "meeting"
+    name = "Let's Talk"
+    url = "/letstalk"
+    weight = 10
 
 [taxonomies]
 category = "categories"
