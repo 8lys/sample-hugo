@@ -1,3 +1,3 @@
-+++
-author = "Hugo Authors"
-+++
+New website coming soon...
+
+Schedule a call: jvwith.me/letstalk
